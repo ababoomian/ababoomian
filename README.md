@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ababoomian&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)&nbsp;
 ![Location](https://img.shields.io/badge/📍_Armenia-0d1117?style=for-the-badge&labelColor=161b22)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/arnobaboomian)&nbsp;
 <!-- ☝️ Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn handle -->
 
 </div>
@@ -33,7 +33,6 @@ I build mobile and web products with a strong lean toward performance, clean arc
 
 ## 🔭 Currently Working On
 
-- **Climatenet Armenia** — React Native mobile app with BLE device integration for real-time sensor data
 - **AI Healthcare tooling** — EHR intelligence & patient risk analysis pipelines built on Databricks
 - Exploring intelligent dashboards with vector search and AI workflow automation
 
